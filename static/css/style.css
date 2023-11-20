@@ -1,0 +1,54 @@
+body {
+    background-image: url(/static/img/background_characters.jpeg);
+}
+
+.container {
+    background-image: url(/static/img/background_characters.jpeg);
+    background-position: center;
+}
+
+.container thead tr {
+    color: white;
+}
+
+.container tbody tr td {
+    color: white;
+    visibility: hidden;
+}
+
+.container tbody tr td:nth-child(3) {
+    background: rgba(245,245,220,0.8);
+    color: black;
+    border-radius: 5px;
+}
+
+.container tbody tr td a{
+    text-decoration: none;
+    color: white;
+}
+
+.container-fluid nav a img {
+    max-width: 126px;
+}
+
+.container .mt-3 {
+    padding: 10px;
+}
+
+.container .mt-3 h1{
+    text-align: center;
+}
+
+.container .mt-3 tbody td img{
+    background: transparent;
+    border: none;
+}
+
+h1 {
+    color: white;
+}
+
+
+/* img {
+    background-color: var(--bs-body-bg);
+} */
