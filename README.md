@@ -1,15 +1,15 @@
 # Projeto CRUD de Cadastro de Personagens de Harry Potter
 
 <div align="center">
-    <img src="./static/img/Captura de tela 2023-11-20 201203.png" width="660px">
+    <img src="./static/img/Captura de tela 2023-11-20 201203.png" width="600px">
 </div>
 
 <div align="center">
-    <img src="./static/img/Captura de tela 2023-11-20 201231.png" width="660px">
+    <img src="./static/img/Captura de tela 2023-11-20 201231.png" width="600px">
 </div>
 
 <div align="center">
-    <img src="./static/img/Captura de tela 2023-11-20 201245.png" width="660px">
+    <img src="./static/img/Captura de tela 2023-11-20 201245.png" width="600px">
 </div>
 
 ### Descrição do Projeto
