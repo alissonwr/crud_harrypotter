@@ -45,7 +45,7 @@ Este projeto consiste em uma aplicação CRUD (Create, Read, Update, Delete) par
 ### Configuração do Ambiente
 1: Clone o repositório para sua máquina local:
 ```sh
-git clone https://github.com/alissonwr/nome-do-repositorio.git
+git clone https://github.com/alissonwr/crud_harrypotter.git
 ```
 2: Crie e ative o ambiente virtual:
 ```sh
